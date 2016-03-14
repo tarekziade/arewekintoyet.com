@@ -11,9 +11,18 @@
 
 span.no {
  font-weight: bold;
- font-size: 40px;
+ font-size: 30px;
  color: red;
+ padding: 2px;
 }
+
+span.yes {
+ font-weight: bold;
+ font-size: 30px;
+ color: green;
+ padding: 2px;
+}
+
 
 body {
     line-height: 1.7em;
